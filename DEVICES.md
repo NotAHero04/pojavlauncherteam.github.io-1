@@ -3,15 +3,15 @@
 ## Android
 
 Minimum requirements:
-- 32-bit (aarch32 or 32-bit/i386) CPU
+- 32-bit (aarch32 or x86/i*86) or 64-bit (aarch64 or x86_64) CPU
 - Android 5.0
-- 1 GB(gigabyte) of RAM
+- 1 GB (gigabyte) of RAM
 
 Recommended requirements:
-- 64-bit (aarch64 or 64-bit/x86_64) CPU
+- 64-bit (aarch64 or x86_64) CPU
 - Android 8.0
-- 4 GBs(gigabytes) of RAM
-- GPU with "Vulkan" API (`v3_zink` and/or `vulkanmod` compatibility)
+- 4 GB (gigabytes) of RAM
+- GPU with "Vulkan" API (`v3_zink` and/or `vulkanmod` compatibility). Device released within 5 years should have this feature.
 
 ### ChromeOS
 
@@ -20,12 +20,14 @@ Chromebooks have very similar system requirements, however Android version does 
 ## iOS
 
 Minimum requirements:
-- Apple A8 SoC
-   - The Apple A7 SoC is losing support in PojavLauncher 2.2.
+- Apple A7 SoC
+   - Apple A8 or later will be required in PojavLauncher 2.2.
 - iOS 12
-- 1 GB(gigabyte) of RAM
+   - iOS 14.0 or later will be required in a future update.
+- 1 GB (gigabyte) of RAM
+   - 2 GB RAM will be required in a future update.
 
 Recommended requirements:
-- Apple A10/A10X Fusion SoC
-- iOS 14
-- 2 GBs(gigabytes) of RAM
+- Apple A10/A10X Fusion SoC or later
+- iOS 14.0 or later
+- 2 GB (gigabytes) of RAM
