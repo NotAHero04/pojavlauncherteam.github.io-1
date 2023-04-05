@@ -20,10 +20,11 @@ Chromebooks have very similar system requirements, however Android version does 
 ## iOS
 
 Minimum requirements:
-- Apple A8 SoC
-   - The Apple A7 SoC is losing support in PojavLauncher 2.2.
-- iOS 12
-- 1 GB(gigabyte) of RAM
+- Any 64-bit iPhone, iPad or iPod touch running iOS 12.2 or later.
+  - iOS 14 will be required in a future update.
+
+
+
 
 Recommended requirements:
 - Apple A10/A10X Fusion SoC
